@@ -1,4 +1,4 @@
-using i18n;
+using i18n.JsonStringLocalizer;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Localization;
 using System.Globalization;

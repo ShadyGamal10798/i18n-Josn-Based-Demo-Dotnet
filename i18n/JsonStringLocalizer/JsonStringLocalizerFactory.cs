@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Localization;
 
-namespace i18n
+namespace i18n.JsonStringLocalizer
 {
     public class JsonStringLocalizerFactory : IStringLocalizerFactory
     {

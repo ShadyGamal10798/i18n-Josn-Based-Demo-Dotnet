@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Localization;
 using Newtonsoft.Json;
 
-namespace i18n
+namespace i18n.JsonStringLocalizer
 {
     public class JsonStringLocalizer : IStringLocalizer
     {
